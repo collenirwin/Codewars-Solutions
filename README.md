@@ -5,4 +5,4 @@ With some minor formatting of the solutions file (remove the leading and trailin
 
 Once you have a file, save it over `SolutionParser/SplitSolutions/bin/Debug/solutions.txt`, and run the parser.
 
-If you run into errors, you likely have used a language that I have not and will need to add your languages and file extensions to the `fileExtensions` dictionary.
+If you run into errors, you likely have used a language that I have not and will need to add your languages and file extensions to the `fileExtensions` dictionary in [Program.cs](https://github.com/collenirwin/Codewars-Solutions/blob/master/SolutionParser/SplitSolutions/Program.cs) and recompile.
