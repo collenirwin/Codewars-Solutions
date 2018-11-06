@@ -1,0 +1,1 @@
+fixTheMeerkat = (array) -> array.reverse()

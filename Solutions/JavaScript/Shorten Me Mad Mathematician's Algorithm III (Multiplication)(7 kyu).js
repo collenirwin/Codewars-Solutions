@@ -1,0 +1,1 @@
+madMul=(a,b)=>eval("a\52b")

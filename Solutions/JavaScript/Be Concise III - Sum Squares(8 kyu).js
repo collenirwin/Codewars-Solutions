@@ -1,0 +1,1 @@
+let sumSquares=a=>a.reduce((t,x)=>t+x*x,0)

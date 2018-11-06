@@ -1,0 +1,7 @@
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\bin\Debug\SplitSolutions.exe.config
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\bin\Debug\SplitSolutions.exe
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\bin\Debug\SplitSolutions.pdb
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\bin\Debug\RegExtensions.dll
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\obj\Debug\SplitSolutions.csprojResolveAssemblyReference.cache
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\obj\Debug\SplitSolutions.exe
+E:\School2018.2\Prog\SplitSolutions\SplitSolutions\obj\Debug\SplitSolutions.pdb

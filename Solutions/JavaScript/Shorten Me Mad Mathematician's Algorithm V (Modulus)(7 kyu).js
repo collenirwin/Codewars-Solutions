@@ -1,0 +1,1 @@
+madMod=(a,b)=>eval("a\45b")
